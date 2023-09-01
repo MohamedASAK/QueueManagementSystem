@@ -1,0 +1,16 @@
+Data of Clinets: 
+
+VIP Client
+1 --> VIP : Mohamed : 01555586332 : Teller
+2 --> VIP : Ahmed : 01115587382 : Customer_Service
+3 --> VIP : Ali : 01557287547 : Customer_Service
+4 --> VIP : Ziad : 01033487712 : Teller
+5 --> VIP : Alaa : 01214322110 : Customer_Service
+
+
+Client
+1 --> Clinet : 01123456782 : Customer_Service
+2 --> Clinet : 01012345825 : Teller
+3 --> Clinet : 01012545635 : Customer_Service
+4 --> Clinet : 01227456812 : Teller
+5 --> Clinet : 01555456892 : Customer_Service
